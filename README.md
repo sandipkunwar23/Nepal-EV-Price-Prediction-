@@ -2,14 +2,15 @@ Nepal has experienced a rapid rise in electric vehicle (EV) adoption in recent y
 
 This mini project focuses on analyzing four-wheeler personal electric vehicles available in the Nepalese market and exploring how vehicle specifications relate to their market prices.
 
-Project Objective
+Project Objective:
 
 The objectives of this project are:
    1. To collect data on electric four-wheeler vehicles sold in Nepal
    2. To explore and analyze EV specifications and price trends
    3. To apply standard machine learning regression algorithms to estimate EV prices
 
-Data Source: All data used in this project was collected from: https://www.ev-nepal.com/
+Data Source: All data used in this project was collected from: https://www.ev-nepal.com/ 
+
 Only personal four-wheeler electric vehicles listed on the website were included in the dataset.
 
 Methodology:
@@ -19,8 +20,8 @@ Methodology:
    4. Exploratory Data Analysis (EDA) performed.
    5. Regression models from scikit-learn (including Random Forest) applied for price estimation.
 
-Tools
+Tools:
 Python, Pandas, NumPy, Matplotlib/Seaborn, scikit-learn, Selenium
 
-Notes
+Notes:
 This project is exploratory in nature and intended as a mini-project to understand the Nepalese EV market using real-world data.
